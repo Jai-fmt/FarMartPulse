@@ -1,15 +1,7 @@
 # FarMartPulse Master Plan
 
-Status: Draft
+> FarMartPulse does not score API records.
+> FarMartPulse scores verified employee engagements.
 
-This document tracks product phases, delivery milestones, dependencies, risks, and release criteria.
-
-## Objectives
-
-## Milestones
-
-## Dependencies
-
-## Risks
-
-## Release criteria
+Automated Platform Data + Manual Verification \
+→ Trusted Employee Advocacy Data
